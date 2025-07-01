@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi, I'm Connor 🛹</h1>
-<h3 align="center">I'm a student at the University of Michigan majoring in computer science and minoring in math. I have associates degrees in computer science, math, and physics, and am interested in the interface between technology and environmental sustainability. Want to get in touch? Please message me at connorjd@umich.edu or on Linkedin. Go Blue!</h3>
+<h3 align="center">I'm a student at the University of Michigan majoring in computer science and minoring in math. I have associates degrees in computer science, math, and physics, and am interested in the interface between technology and environmental sustainability. 
+  
+Want to get in touch? Please message me at connorjd@umich.edu or on Linkedin. Go Blue!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
