@@ -1,4 +1,4 @@
-Hi, I'm Connor 👨‍💻🛹
+## Hi, I'm Connor 👨‍💻🛹
 
 I'm a student at the University of Michigan majoring in computer science and minoring in math. I have associates degrees in computer science, math, and physics, and am interested in the interface between technology and environmental sustainability. 
   
